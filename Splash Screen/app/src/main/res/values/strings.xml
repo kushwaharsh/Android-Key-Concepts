@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen App</string>
+    <string name="welcome_tho_the_home_screen">Welcome tho the Home Screen</string>
+    <string name="this_screen_appears_after_the_splash_screen">This Screen Appears after the splash screen</string>
+</resources>
