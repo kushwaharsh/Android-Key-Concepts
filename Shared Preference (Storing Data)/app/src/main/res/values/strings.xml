@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Store Data In Shared Pref</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="login">Login</string>
+    <string name="this_is_a_home_screen">This is a Home Screen</string>
+    <string name="name">Name</string>
+    <string name="enter_your_details">Enter Your Details</string>
+</resources>
