@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreenActivity"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:padding="5dp"
+    android:background="@color/red">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/app_ic"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Home Screen"
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is a Home screen , Press the Logout button to remove the shared pref data"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_marginTop="40dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/logoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/design_default_color_primary"/>
+
+
+</LinearLayout>

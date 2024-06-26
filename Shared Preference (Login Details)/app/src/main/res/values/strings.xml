@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Pref App</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="login">Login</string>
+    <string name="this_is_a_login_screen_press_the_login_button_to_store_the_data_in_shared_pref_via_flad_credientials_are_not_validated_here">This is a login screen , Press the Login button to store the data in Shared pref via flad , credientials are not validated here</string>
+    <string name="this_is_a_splash_screen">This is a splash Screen</string>
+</resources>
