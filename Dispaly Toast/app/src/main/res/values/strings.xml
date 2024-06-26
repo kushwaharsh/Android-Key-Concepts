@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Display Toast</string>
+    <string name="hello">Hello</string>
+    <string name="gud_morning">Gud Morning</string>
+    <string name="happy_sunday">Happy Sunday</string>
+    <string name="press_the_buttons_to_generate_the_toast">Press the buttons to generate the toast</string>
+</resources>
