@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Passing A to A</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="enter_your_details">Enter Your Details</string>
+    <string name="user_profile">User Profile</string>
+    <string name="terms_conditions">terms conditions</string>
+</resources>
