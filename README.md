@@ -15,3 +15,9 @@
 
 
 #### 7) Fragment Fundamentals - https://www.youtube.com/watch?v=fT4MVQZWPRg
+
+#### 8) Data Passing From Fragment to Fragment (Using Bundle) - 
+
+#### 9) Recycler View Fundamntals - https://www.youtube.com/watch?v=qXieRrvrP2w&list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8&index=28
+
+#### 10) Recycler View (with onClickListner) - https://www.youtube.com/watch?v=Yln7-QdxjE8&list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8&index=29
