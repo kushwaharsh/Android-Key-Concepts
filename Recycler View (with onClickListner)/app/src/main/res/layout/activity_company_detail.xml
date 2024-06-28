@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CompanyDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="5dp"
+        android:padding="20dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/detailCompanyLogo"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/linked_ic"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:id="@+id/detailCompanyName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Company name here"
+            android:layout_marginTop="10dp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/detailCompanyDescription"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Comany detailed description"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:padding="10dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/mainPageBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go to main page"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/red"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
