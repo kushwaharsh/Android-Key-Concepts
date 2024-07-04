@@ -28,11 +28,11 @@
    - a) Connection With API - [Video](https://www.youtube.com/watch?v=Glz0u3zUX20&list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8&index=30)
    - b) SQLite CRUD Operations - [Video](https://www.youtube.com/watch?v=BVAslimaGSk&t=199s)
 
-#### 14) Custom Tab Layout - [Video](https://www.youtube.com/watch?v=WbpKInkd0YQ&t=217s)
+#### 14) Custom Tab Layout - [Video](https://www.youtube.com/watch?v=WbpKInkd0YQ&t=217s)  To be added
 
-#### 15) Search View With Recycler View - [Video](https://www.youtube.com/watch?v=SD097oVVrPE)
+#### 15) Search View With Recycler View - [Video](https://www.youtube.com/watch?v=SD097oVVrPE)  To be added
 
-#### 16) Expandable Recycler View - [Video](https://www.youtube.com/watch?v=pABhkxE547U)
+#### 16) Expandable Recycler View - [Video](https://www.youtube.com/watch?v=pABhkxE547U)  Tobe Added
 
 #### 17) Nested Recycler View - [Video](https://www.youtube.com/watch?v=4XUfdF0x2P4)
 
