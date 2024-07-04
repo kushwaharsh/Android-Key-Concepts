@@ -36,6 +36,13 @@
 
 #### 17) Nested Recycler View - [Video](https://www.youtube.com/watch?v=4XUfdF0x2P4)
 
-#### 18) View Model Fundamental - [Video](https://www.youtube.com/watch?v=OZBwLFV-OvI&t=502s)
+#### 18) View Model Fundamental (MVVM) - [Video](https://www.youtube.com/watch?v=OZBwLFV-OvI&t=502s)
 
-#### 19) View Model Factory Fundamental - [Video](https://www.youtube.com/watch?v=MCqmeNBKV9k&t=135s)
+#### 19) View Model Factory Fundamental (MVVM) - [Video](https://www.youtube.com/watch?v=MCqmeNBKV9k&t=135s)
+
+#### 20) LifeCycle Component Aware Fundamentals - [Vedio](https://www.youtube.com/watch?v=5KYRgSlb00c&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=2)
+
+#### 21) Quotes App Using MVVM - [Video](https://www.youtube.com/watch?v=HfkyXuZdD_c&t=373s)
+
+#### 22) Live Data Fundamentals - [Vedio](https://www.youtube.com/watch?v=UGBHHkUyL5c&list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2&index=6)
+
