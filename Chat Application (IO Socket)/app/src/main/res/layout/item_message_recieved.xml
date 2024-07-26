@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="16dp"
+    android:padding="2dp">
+
+    <!-- Spacer to push the message layout to the start -->
+
+    <!-- Message container -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="0.75"
+        android:padding="8dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/message_background_received"
+        android:layout_gravity="start"
+        android:gravity="start">
+
+        <!-- Message bubble -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+        android:padding="8dp"
+        android:layout_gravity="start">
+
+        <TextView
+            android:id="@+id/recieverNickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nickname"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recieverMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Message"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+</LinearLayout>
+
+    <!-- Spacer to balance layout -->
+<View
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0.25"/>
+    </LinearLayout>
